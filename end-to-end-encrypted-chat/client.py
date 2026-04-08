@@ -47,4 +47,5 @@ def main():
         sock.close()
 
 
-main()
+# main() 
+# for i in range(len(nums)):
